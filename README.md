@@ -12,6 +12,7 @@ Windows caffeinate Terminal profile:
     - (Optional) Save one of the icons (white or black version, to match your theme) to the User folder, and select it through the Icon field when creating the profile
 
 
+
 ## Appendix
 Code to input on Terminal Profile `Command Line` field:
 ```
