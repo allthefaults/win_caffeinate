@@ -1,9 +1,9 @@
 # win_caffeinate
-This repo contains all the necessary info to setting up a custom PowerShell profile on Windows Terminal to "caffeinte" the same as a macOS system can. Credit for the ps1 file goes to [Den Delimarsky](https://den.dev/blog/caffeinate-windows/), the profile code is my own. 
+This repo contains all the necessary info to setting up a custom PowerShell profile on Windows Terminal to "caffeinte" the same as a macOS system can. Credit for the ps1 file goes to [Den Delimarsky](https://den.dev/blog/caffeinate-windows/), the profile code is my own.
 
 ## Setup
 Windows caffeinate Terminal profile:
-1. File goes into `C:/Users/<user_folder>/`
+1. Create a `caffeinate.ps1` file under `C:/Users/<user_folder>/` and paste the code from the repo file there (this prevents issues with unsigned file)
 1. On Terminal, open Settings, click `Add new profile` on the left
 2. Select the existing `Windows PowerShell` profile, and click `Duplicate`
 1. On the next screen, input the code below into the `Command line` field
